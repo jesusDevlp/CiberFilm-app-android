@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemFrag1"
+        android:icon="@drawable/home1"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/itemFrag2"
+        android:icon="@drawable/movie"
+        android:title="Peliculas"/>
+
+
+    <item
+        android:id="@+id/itemFrag3"
+        android:icon="@drawable/cinema"
+        android:title="Cines"/>
+
+    <item
+        android:id="@+id/itemFrag4"
+        android:icon="@drawable/tienda"
+        android:title="Tienda"/>
+
+    <item
+        android:id="@+id/itemFrag5"
+        android:icon="@drawable/mas"
+        android:title="Mas"/>
+
+
+
+</menu>
